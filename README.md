@@ -104,3 +104,6 @@ When we're actually on the docs page, that link will get the `active` class appl
 ```
 
 Simple!
+
+## Bonus Reading:
+Read about using <a href="https://scotch.io/tutorials/3-simple-tips-for-using-ui-router" target="_blank">dynamic parameters</a> with uiRouter!
